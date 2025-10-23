@@ -1,6 +1,5 @@
 # ADS1x15_MAF_Simulation
 
-## What is this?
 Moving-Average Filter microservice for ADC/DSP exploration.
 Send a list of numbers (`signal`) and a window size; get the smoothed signal and a peak-preservation metric.
 
